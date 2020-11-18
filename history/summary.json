@@ -3,40 +3,32 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 59
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "name": "百度",
+    "url": "https://baidu.com",
+    "slug": "",
+    "status": "up",
+    "uptime": "-3360.35",
+    "time": 2489
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "xhemj",
+    "url": "https://xhemj.js.org",
+    "slug": "xhemj",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 354
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
+    "name": "ERSS名言",
+    "url": "https://mingyan.js.org",
+    "slug": "erss",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 535
   }
 ]
