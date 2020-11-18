@@ -8,12 +8,12 @@
     "time": 59
   },
   {
-    "name": "百度",
-    "url": "https://baidu.com",
-    "slug": "",
+    "name": "Baidu",
+    "url": "https://www.baidu.com",
+    "slug": "baidu",
     "status": "up",
-    "uptime": "-1982.42",
-    "time": 2489
+    "uptime": "100.00",
+    "time": 1584
   },
   {
     "name": "xhemj",
@@ -24,11 +24,11 @@
     "time": 354
   },
   {
-    "name": "ERSS名言",
+    "name": "ERSS Mingyan",
     "url": "https://mingyan.js.org",
-    "slug": "erss",
+    "slug": "erss-mingyan",
     "status": "up",
     "uptime": "100.00",
-    "time": 535
+    "time": 47
   }
 ]
