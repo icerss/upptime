@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: xhemj # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: 百度
-    url: https://baidu.com
+  - name: Baidu
+    url: https://www.baidu.com
   - name: xhemj
     url: https://xhemj.js.org
-  - name: ERSS名言
+  - name: ERSS Mingyan
     url: https://mingyan.js.org
 
 status-website:
