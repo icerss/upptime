@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 59
+    "time": 61
   },
   {
     "name": "Baidu",
@@ -13,7 +13,7 @@
     "slug": "baidu",
     "status": "up",
     "uptime": "100.00",
-    "time": 1584
+    "time": 1906
   },
   {
     "name": "xhemj",
@@ -21,7 +21,7 @@
     "slug": "xhemj",
     "status": "up",
     "uptime": "100.00",
-    "time": 354
+    "time": 282
   },
   {
     "name": "ERSS Mingyan",
@@ -29,6 +29,6 @@
     "slug": "erss-mingyan",
     "status": "up",
     "uptime": "100.00",
-    "time": 47
+    "time": 64
   }
 ]
