@@ -27,8 +27,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
+
 commitMessages:
   commitAuthorName: "Xhemj Bot"
   commitAuthorEmail: "xhemj_service@126.com"
