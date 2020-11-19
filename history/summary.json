@@ -3,32 +3,32 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 110
+    "time": 121
   },
   {
     "name": "Baidu",
     "url": "https://www.baidu.com",
     "slug": "baidu",
-    "status": "down",
-    "uptime": "99.97",
-    "time": 1985
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1875
   },
   {
     "name": "xhemj",
     "url": "https://xhemj.js.org",
     "slug": "xhemj",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 203
+    "status": "up",
+    "uptime": "100.00",
+    "time": 170
   },
   {
     "name": "ERSS Mingyan",
     "url": "https://mingyan.js.org",
     "slug": "erss-mingyan",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 75
+    "status": "up",
+    "uptime": "100.00",
+    "time": 77
   }
 ]
