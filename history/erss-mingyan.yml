@@ -1,7 +1,7 @@
 - url: https://mingyan.js.org
-- status: down
+- status: up
 - code: 200
-- responseTime: 98
-- lastUpdated: 2020-11-19T06:49:26.864Z
+- responseTime: 81
+- lastUpdated: 2020-11-19T06:57:34.819Z
 - startTime: 2020-11-18T23:05:22.000Z
 - generator: Upptime <https://github.com/upptime/upptime>
