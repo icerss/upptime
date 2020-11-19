@@ -30,5 +30,8 @@ status-website:
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
+commitMessages:
+  commitAuthorName: "Xhemj Bot"
+  commitAuthorEmail: "ersskrz@163.com"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
