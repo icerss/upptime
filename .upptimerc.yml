@@ -15,6 +15,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.xhemj.eu.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://xhemj.js.org/logo.png
