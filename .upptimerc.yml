@@ -4,14 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Baidu
-    url: https://www.baidu.com
-  - name: xhemj
-    url: https://xhemj.js.org
-  - name: ERSS Mingyan
+  - name: ERSS Mingyan (Vercel)
     url: https://mingyan.js.org
+  - name: ERSS Mingyan (Github + Cloudflare)
+    url: https://i.xhemj.eu.org
+  - name: ERSS Mingyan (Coding)
+    url: https://cn.mingyan.js.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
