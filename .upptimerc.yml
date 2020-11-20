@@ -20,6 +20,7 @@ sites:
 status-website:
   cname: status.xhemj.eu.org
   logoUrl: https://xhemj.js.org/logo.png
+  favicon: https://xhemj.js.org/logo.png
   name: Xhemj Status
   introTitle: "Xhemj Status"
   introMessage: 
