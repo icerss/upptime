@@ -1,8 +1,11 @@
-# Change these first
-owner: xhemj # Your GitHub username
-repo: upptime # Your Github repository name
-
-# Add your sites here
+owner: xhemj
+repo: upptime
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+commitMessages:
+  commitAuthorName: "Xhemj Bot"
+  commitAuthorEmail: "xhemj_service@126.com"
 sites:
   - name: ERSS Mingyan (Vercel)
     url: https://mingyan.js.org
@@ -10,12 +13,12 @@ sites:
     url: https://i.xhemj.eu.org
   - name: ERSS Mingyan (Coding)
     url: https://cn.mingyan.js.org
-
+  - name: xhemj (Vercel)
+    url: https://xhemj.js.org
+  - name: xhemj (Gitee)
+    url: https://xhemj.gitee.io
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.xhemj.eu.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://xhemj.js.org/logo.png
   name: Xhemj Status
   introTitle: "Xhemj Status"
@@ -25,13 +28,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-
-commitMessages:
-  commitAuthorName: "Xhemj Bot"
-  commitAuthorEmail: "xhemj_service@126.com"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
