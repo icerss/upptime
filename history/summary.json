@@ -1,34 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 106
-  },
-  {
-    "name": "Baidu",
-    "url": "https://www.baidu.com",
-    "slug": "baidu",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1854
-  },
-  {
-    "name": "xhemj",
-    "url": "https://xhemj.js.org",
-    "slug": "xhemj",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 150
-  },
-  {
-    "name": "ERSS Mingyan",
+    "name": "ERSS Mingyan (Vercel)",
     "url": "https://mingyan.js.org",
-    "slug": "erss-mingyan",
+    "slug": "erss-mingyan-vercel",
     "status": "up",
     "uptime": "100.00",
-    "time": 75
+    "time": 67
+  },
+  {
+    "name": "ERSS Mingyan (Github + Cloudflare)",
+    "url": "https://i.xhemj.eu.org",
+    "slug": "erss-mingyan-github-cloudflare",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 224
+  },
+  {
+    "name": "ERSS Mingyan (Coding)",
+    "url": "https://cn.mingyan.js.org",
+    "slug": "erss-mingyan-coding",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1236
   }
 ]
