@@ -32,3 +32,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
