@@ -17,6 +17,8 @@ sites:
     url: https://xhemj.js.org
   - name: xhemj (Gitee)
     url: https://xhemj.gitee.io
+assignees:
+  - xhemj
 status-website:
   cname: status.xhemj.eu.org
   logoUrl: https://xhemj.js.org/logo.png
