@@ -5,15 +5,15 @@
     "slug": "erss-mingyan-vercel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 205
+    "time": 204
   },
   {
     "name": "ERSS Mingyan (Github + Cloudflare)",
     "url": "https://i.xhemj.eu.org",
     "slug": "erss-mingyan-github-cloudflare",
     "status": "up",
-    "uptime": "98.90%",
-    "time": 280
+    "uptime": "99.05%",
+    "time": 278
   },
   {
     "name": "ERSS Mingyan (Coding)",
@@ -21,7 +21,7 @@
     "slug": "erss-mingyan-coding",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1214
+    "time": 1215
   },
   {
     "name": "xhemj (Vercel)",
@@ -29,14 +29,14 @@
     "slug": "xhemj-vercel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 167
+    "time": 229
   },
   {
     "name": "xhemj (Gitee)",
     "url": "https://xhemj.gitee.io",
     "slug": "xhemj-gitee",
     "status": "up",
-    "uptime": "99.57%",
-    "time": 1746
+    "uptime": "99.64%",
+    "time": 1712
   }
 ]
