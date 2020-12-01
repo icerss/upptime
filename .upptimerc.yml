@@ -19,7 +19,7 @@ sites:
   - name: xhemj (Gitee)
     url: https://xhemj.gitee.io
 assignees:
-  - xhemj
+  - xhemj-bot
 status-website:
   cname: status.xhemj.eu.org
   logoUrl: https://xhemj.js.org/logo.png
