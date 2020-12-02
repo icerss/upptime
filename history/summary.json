@@ -12,7 +12,7 @@
     "url": "https://i.xhemj.eu.org",
     "slug": "erss-mingyan-github-cloudflare",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.41%",
     "time": 328
   },
   {
@@ -35,8 +35,8 @@
     "name": "xhemj (Gitee)",
     "url": "https://xhemj.gitee.io",
     "slug": "xhemj-gitee",
-    "status": "up",
-    "uptime": "99.64%",
-    "time": 1547
+    "status": "down",
+    "uptime": "99.65%",
+    "time": 1533
   }
 ]
