@@ -36,9 +36,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 i18n:
   allSystemsOperational: 所有站点都正常运行
-  incidentReport: "#$NUMBER 号事件报告 →"
+  incidentReport: "#$NUMBER 事件报告 →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: $NUMBER 号事件明细
+  incidentTitle: $NUMBER 事件明细
   incidentDetails: 事件明细
   incidentFixed: 修复
   incidentOngoing: 进行中
