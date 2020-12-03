@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 228,
-    "timeWeek": 194,
-    "timeMonth": 205,
-    "timeYear": 205
+    "time": 210,
+    "timeDay": 250,
+    "timeWeek": 206,
+    "timeMonth": 210,
+    "timeYear": 210
   },
   {
     "name": "ERSS Mingyan (Github + Cloudflare)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
-    "time": 340,
-    "timeDay": 319,
-    "timeWeek": 419,
-    "timeMonth": 340,
-    "timeYear": 340
+    "time": 341,
+    "timeDay": 328,
+    "timeWeek": 415,
+    "timeMonth": 341,
+    "timeYear": 341
   },
   {
     "name": "ERSS Mingyan (Coding)",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1195,
-    "timeDay": 1126,
-    "timeWeek": 1168,
-    "timeMonth": 1195,
-    "timeYear": 1195
+    "time": 1197,
+    "timeDay": 1149,
+    "timeWeek": 1174,
+    "timeMonth": 1197,
+    "timeYear": 1197
   },
   {
     "name": "xhemj (Vercel)",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 91,
-    "timeWeek": 241,
-    "timeMonth": 203,
-    "timeYear": 203
+    "time": 210,
+    "timeDay": 153,
+    "timeWeek": 254,
+    "timeMonth": 210,
+    "timeYear": 210
   },
   {
     "name": "xhemj (Gitee)",
@@ -73,10 +73,10 @@
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
-    "time": 1800,
-    "timeDay": 1726,
-    "timeWeek": 1678,
-    "timeMonth": 1800,
-    "timeYear": 1800
+    "time": 1855,
+    "timeDay": 2058,
+    "timeWeek": 1785,
+    "timeMonth": 1855,
+    "timeYear": 1855
   }
 ]
