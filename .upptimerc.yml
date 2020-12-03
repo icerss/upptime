@@ -36,9 +36,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 i18n:
   allSystemsOperational: 所有站点都正常运行
-  incidentReport: "#$NUMBER 事件报告 →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: $NUMBER 事件明细
+  incidentReport: "#$NUMBER 号事件报告 →"
+  incidentTitle: $NUMBER 号事件明细
   incidentDetails: 事件明细
   incidentFixed: 修复
   incidentOngoing: 进行中
@@ -48,7 +47,7 @@ i18n:
   incidentViewOnGitHub: 在GitHub上查看
   incidentCommentSummary: 由 $AUTHOR 在 $DATE 发表
   incidentBack: ← 返回所有事件
-  pastIncidents: 过去事件
+  pastIncidents: 历史事件
   pastIncidentsResolved: 在 $MINUTES 分钟内的 $POSTS 条回复中得到解决
   liveStatus: 实时状态
   overallUptime: "正常运行时间：$UPTIME"
