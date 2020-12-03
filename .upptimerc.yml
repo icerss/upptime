@@ -20,6 +20,7 @@ sites:
     url: https://xhemj.gitee.io
 assignees:
   - xhemj-bot
+  - xhemj
 status-website:
   cname: status.xhemj.eu.org
   logoUrl: https://xhemj.js.org/logo.png
@@ -27,6 +28,7 @@ status-website:
   name: Xhemj Status
   introTitle: "Xhemj Status"
   introMessage: 
+  apiBaseUrl: https://ghapi.xhemj.eu.org
   navbar:
     - title: Status
       href: /
