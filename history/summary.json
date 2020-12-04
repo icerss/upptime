@@ -9,27 +9,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 250,
-    "timeWeek": 206,
-    "timeMonth": 210,
-    "timeYear": 210
+    "time": 205,
+    "timeDay": 236,
+    "timeWeek": 204,
+    "timeMonth": 205,
+    "timeYear": 205
   },
   {
     "name": "ERSS Mingyan (Github + Cloudflare)",
     "url": "https://i.xhemj.eu.org",
     "slug": "erss-mingyan-github-cloudflare",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
-    "time": 341,
-    "timeDay": 328,
-    "timeWeek": 415,
-    "timeMonth": 341,
-    "timeYear": 341
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 362,
+    "timeDay": 432,
+    "timeWeek": 472,
+    "timeMonth": 362,
+    "timeYear": 362
   },
   {
     "name": "ERSS Mingyan (Coding)",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1197,
-    "timeDay": 1149,
-    "timeWeek": 1174,
-    "timeMonth": 1197,
-    "timeYear": 1197
+    "time": 1201,
+    "timeDay": 1221,
+    "timeWeek": 1183,
+    "timeMonth": 1201,
+    "timeYear": 1201
   },
   {
     "name": "xhemj (Vercel)",
@@ -57,26 +57,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 153,
-    "timeWeek": 254,
-    "timeMonth": 210,
-    "timeYear": 210
+    "time": 205,
+    "timeDay": 145,
+    "timeWeek": 252,
+    "timeMonth": 205,
+    "timeYear": 205
   },
   {
     "name": "xhemj (Gitee)",
     "url": "https://xhemj.gitee.io",
     "slug": "xhemj-gitee",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.32%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 1855,
-    "timeDay": 2058,
-    "timeWeek": 1785,
-    "timeMonth": 1855,
-    "timeYear": 1855
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 1833,
+    "timeDay": 2291,
+    "timeWeek": 1727,
+    "timeMonth": 1833,
+    "timeYear": 1833
   }
 ]
