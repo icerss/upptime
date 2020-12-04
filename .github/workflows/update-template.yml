@@ -35,3 +35,4 @@ jobs:
           commit_user_name: Xhemj Bot
           commit_user_email: xhemj_service@126.com
           commit_author: Xhemj Bot <xhemj_service@126.com>
+          push_options: '--force'
