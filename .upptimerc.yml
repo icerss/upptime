@@ -28,7 +28,7 @@ status-website:
   name: Xhemj Status
   introTitle: "Xhemj Status"
   introMessage: 
-  apiBaseUrl: https://ghapi.xhemj.eu.org
+  # apiBaseUrl: https://ghapi.xhemj.eu.org
   navbar:
     - title: Status
       href: /
