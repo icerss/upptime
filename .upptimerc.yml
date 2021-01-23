@@ -10,8 +10,8 @@ commitMessages:
 sites:
   - name: ERSS Mingyan (Vercel)
     url: https://mingyan.js.org
-  - name: ERSS Mingyan (Github + Cloudflare)
-    url: https://i.xhemj.eu.org
+  - name: ERSS Mingyan
+    url: https://www.erss.club
   - name: ERSS Mingyan (Coding)
     url: https://cn.mingyan.js.org
   - name: xhemj (Vercel)
