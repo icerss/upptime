@@ -8,12 +8,6 @@ commitMessages:
   commitAuthorName: "Xhemj Bot"
   commitAuthorEmail: "xhemj_service@126.com"
 sites:
-  - name: ERSS Mingyan (Vercel)
-    url: https://mingyan.js.org
-  - name: ERSS Mingyan
-    url: https://www.erss.club
-  - name: ERSS Mingyan (Coding)
-    url: https://cn.mingyan.js.org
   - name: xhemj (Vercel)
     url: https://xhemj.js.org
   - name: xhemj (Gitee)
